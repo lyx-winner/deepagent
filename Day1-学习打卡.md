@@ -16,6 +16,12 @@ WSL2 是 Windows 下跑 AI Agent 项目的唯一真神！跨系统复制 `node_m
 
 <img width="572" height="522" alt="89e5e58618d16e790e31c8393e0f4988" src="https://github.com/user-attachments/assets/889880ab-6882-4f0d-a455-a858d5246569" />
 <img width="613" height="533" alt="202f39d2fdcd573fb8d1e1c9eb67e9d7" src="https://github.com/user-attachments/assets/ebb24c5e-9fbd-442c-ae91-942794743462" />
+
 <img width="275" height="270" alt="cf125ca58b18d13773d9ab5e134dfbba" src="https://github.com/user-attachments/assets/de03e581-d1d9-4228-a094-3796674887f7" />
+
 <img width="515" height="103" alt="a9fcc89ba62410508fa2ce939fd92cd1" src="https://github.com/user-attachments/assets/2b716cdc-bee4-47d3-8579-3f3342d569d4" />
+
 <img width="923" height="329" alt="e37632eeb1bf6b4a54b1f0f56e3dd486" src="https://github.com/user-attachments/assets/f1766320-c92b-4fc7-bfad-a84a0e81f3e1" />
+
+<img width="899" height="383" alt="2c78390adb4ceab373550d350bfc384b" src="https://github.com/user-attachments/assets/90591ebc-015b-402c-91bb-d167770e4770" />
+
